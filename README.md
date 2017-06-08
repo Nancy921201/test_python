@@ -18,3 +18,7 @@
 # sqrt_num.py
     完全平方数
     数字[1, 1000]中，符合条件的数：python sqrt_num.py -b 1 -e 1000
+
+# box_open_or_close.py
+    储物柜状态问题
+    python box_open_or_close.py
